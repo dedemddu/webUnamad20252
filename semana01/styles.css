@@ -3,3 +3,16 @@
     padding: 0px;
     margin: 0px;
 }
+
+h2 {
+    color: black;
+    font-size: 30px;
+}
+
+body {
+    background: lightcyan
+}
+.contenedor {
+    background:lightblue;
+}
+
